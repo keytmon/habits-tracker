@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Habits tracker</string>
+    <string name="navigation_habits">Привычки</string>
+    <string name="navigation_statistics">Статистика</string>
+    <string name="navigation_achievements">Достижения</string>
+    <string name="add_habits">+</string>
+    <string name="create_habit">Добавить привычку</string>
+    <string name="habits_title">Привычки</string>
+    <string name="add_login">Login</string>
+    <string name="add_password">Password</string>
+    <string name="create_habit_name">Я хочу</string>
+    <string name="create_habit_title">Название привычки</string>
+    <string name="add_notifications">Получать уведомления</string>
+    <string name="add_habit_icon">Добавить иконку</string>
+    <string name="how_often_repeat">Как часто выполнять привычку</string>
+    <string name="daily_repeat">Каждый день</string>
+    <string name="weekly_repeat">Каждую неделю</string>
+    <string name="monthly_repeat">Каждый месяц</string>
+    <string name="get_start">DONE</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

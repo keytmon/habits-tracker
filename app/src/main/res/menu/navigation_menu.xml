@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/habits"
+        android:icon="@drawable/ic_habits_nav"
+        android:title="@string/navigation_habits"
+        android:orderInCategory="1"/>
+    <item
+        android:id="@+id/statistics"
+        android:icon="@drawable/ic_statistics_nav"
+        android:title="@string/navigation_statistics"
+        android:orderInCategory="2"/>
+    <item
+        android:id="@+id/achievements"
+        android:icon="@drawable/ic_achievements_nav"
+        android:title="@string/navigation_achievements"
+        android:orderInCategory="3"/>
+</menu>
